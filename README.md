@@ -1,11 +1,11 @@
 ### Hi there 👋, This is Prajwal Hatwar, Welcome to my GitHub Profile.
 ![](https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
 
-🏫 I am currently a final year student at YCCE, Nagpur. 
-🌱 I am currently learning Salesforce, Machine Learning, Web Development. 
-✨ Interested in Data Science. 
+-🏫 I am currently a final year student at YCCE, Nagpur. 
+-🌱 I am currently learning Salesforce, Machine Learning, Web Development. 
+-✨ Interested in Cloud Computing. 
 
-Skills: C / C++ /  PYTHON / JAVA / JS / HTML / CSS / SALESFORCE
+#Skills: C / C++ /  PYTHON / JAVA / JS / HTML / CSS / SALESFORCE#
 
 
 - 🔭 I’m currently working on this page. 
