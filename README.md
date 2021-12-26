@@ -1,8 +1,9 @@
-### Hi there 👋, Prajwal Hatwar
-#### Codding and Development
-![Codding and Development](https://www.techbabble.zone/content/images/2021/07/46207-programmer-1.gif)
+### Hi there 👋, This is Prajwal Hatwar, Welcome to my GitHub Profile.
+![](https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
 
-Skilled in various programming languages including Java, Python, and SQL.
+🏫 I am currently a final year student at YCCE, Nagpur.
+🌱 I am currently learning Salesforce, Machine Learning, Web Development.
+✨ Interested in Data Science.
 
 Skills: C / C++ /  PYTHON / JAVA / JS / HTML / CSS / SALESFORCE
 
