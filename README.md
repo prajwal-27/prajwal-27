@@ -7,8 +7,9 @@
 
 Skills: C / C++ /  PYTHON / JAVA / JS / HTML / CSS / SALESFORCE
 
-- 🔭 I’m currently working on this page. 
 
+- 🔭 I’m currently working on this page. 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=prajwal-27)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
