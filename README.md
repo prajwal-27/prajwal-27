@@ -14,7 +14,7 @@
 
 * 🌱 I am currently learning **Java, Salesforce, ML**
 
-* ⚡ Fun fact **I play games and go to the GYM very often.**
+* ⚡ Fun fact **I play games and ride a bicycle**
 
 * 📫 How to reach me **hatwarprajwal@gmail.com**
 
