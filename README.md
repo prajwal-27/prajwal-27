@@ -8,13 +8,13 @@
 
 ## 🙋‍♂️ About Me
 
-* 🏫 I am currently **a final year student at YCCE, Nagpur. **
+* 🏫 I am currently **a final year student at YCCE, Nagpur.**
 
-* 🔭 I am currently working on **[Fight Covid-19](https://fightcovid.herokuapp.com/)**
+* 🔭 I am currently working on **[Fight Covid-19 Application](https://fightcovid.herokuapp.com/)**
 
-* 🌱 I am currently learning **Java, Salesforce, ML**
+* 🌱 I am currently learning **Java, Salesforce, ML.**
 
-* ⚡ Fun fact **I play games and ride a bicycle**
+* ⚡ Fun fact **I play games and ride a bicycle.**
 
 * 📫 How to reach me **hatwarprajwal@gmail.com**
 
