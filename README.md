@@ -59,7 +59,7 @@
 <br/>
 <br/>
 
-<a href=""><img alt="Prajwal's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=prajwal27&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<a><img alt="Prajwal's Activity Graph" src="https://tranquil-springs-02063.herokuapp.com/graph?username=prajwal-27&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 <br/>
 <br/>
