@@ -12,7 +12,7 @@
 
 * 🔭 I am currently working on **[Fight Covid-19 Application](https://fightcovid.herokuapp.com/)**
 
-* 🌱 I am currently learning **Java, Salesforce, ML.**
+* 🌱 I am currently learning **Java, Salesforce.**
 
 * ⚡ Fun fact **I play games and ride a bicycle.**
 
