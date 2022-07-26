@@ -8,9 +8,9 @@
 
 ## 🙋‍♂️ About Me
 
-* 🏫 I am currently **a final year student at YCCE, Nagpur.**
+* 🏫 I am **a Student of YCCE, Nagpur.**
 
-* 🔭 I am currently working on **[Fight Covid-19 Application](https://fightcovid.herokuapp.com/)**
+* 🔭 I am currently working on **one Industry level Project**
 
 * 🌱 I am currently learning **Java, Salesforce.**
 
